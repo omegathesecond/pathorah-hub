@@ -25,6 +25,8 @@ export default defineConfig({
           text: 'Features',
           items: [
             { text: 'Core Features', link: '/product/features/core' },
+            { text: 'The Network', link: '/product/features/network' },
+            { text: 'Companies & Branches', link: '/product/features/companies' },
             { text: 'Heterogeneous Graph', link: '/product/features/heterogeneous-graph' },
             { text: 'Representative Verification', link: '/product/features/representative-verification' }
           ]
