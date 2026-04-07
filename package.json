@@ -2,6 +2,7 @@
   "name": "pathorah-hub",
   "version": "1.0.0",
   "description": "Pathorah documentation hub",
+  "type": "module",
   "scripts": {
     "dev": "vitepress dev docs --port 6789",
     "build": "vitepress build docs",
