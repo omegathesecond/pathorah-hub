@@ -1,0 +1,28 @@
+# Pathorah Hub
+
+> Product, business, and technical documentation for Pathorah — the African networking and pathfinding platform.
+
+The Pathorah Hub is the central knowledge base for Pathorah: business strategy, product roadmap, AI service architecture, API references, and deployment guides. Pathorah connects people through shared paths, professional networking, and AI-augmented introductions.
+
+Pathorah is operated in partnership with Omevision, a Mbabane-based African tech group. Category: Professional Networking / AI / Internal Documentation.
+
+## What you'll find here
+
+- Business strategy and product roadmap
+- AI service architecture (matching, recommendations, introductions)
+- API reference and integration guides
+- Mobile app and admin/dashboard documentation
+- Infrastructure and deployment guides
+
+## Who it is for
+
+Pathorah team members, partners, integrators, and stakeholders.
+
+## Links
+
+- [Pathorah (main site)](https://pathorah.com): the consumer-facing product homepage.
+- [Omevision (operator)](https://omevision.com): the African tech group operating Pathorah.
+
+## About this file
+
+This file follows the [llms.txt convention](https://llmstxt.org/) — it is a curated, machine-readable summary of the Pathorah Hub intended for use by LLMs and AI agents. Last generated: 2026-05-10.
